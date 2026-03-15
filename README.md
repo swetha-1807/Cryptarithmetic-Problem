@@ -132,6 +132,7 @@ MONEY = 10652<br>
 
 ## Output: 
 
+![Output](https://github.com/swetha-1807/Cryptarithmetic-Problem/blob/main/Screenshot%202026-03-15%20184416.png)
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
